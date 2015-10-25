@@ -1,0 +1,5 @@
+# General Jekyll Config
+highlighter: pygments
+url: http://jaan.janesmae.com/
+lsi: false
+exclude: [CNAME, README.md, LICENSE.md, .gitignore, Gemfile, Gemfile.lock]
