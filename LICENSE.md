@@ -1,6 +1,9 @@
 # janesmae.github.io website license
 
-The blog/site content is created by Jaan Janesmae (jaan@janesmae.com). Copyright (c) 2008-2015 Jaan Janesmae.
+All original content on jaan.janesmae.com is licensed under a Creative Commons Attribution 3.0 Unported License
+attributable to Jaan Janesmae (jaan.janesmae.com)
+
+License: http://creativecommons.org/licenses/by/3.0/
 
 Built with Jekyll using Lagom theme. 
 
