@@ -266,3 +266,8 @@ sup {
   vertical-align: super;
   font-size: smaller;
 }
+#improve {
+  padding: 10px;
+  border-top: 2px solid #eee;
+  border-bottom: 1px solid #eee;
+}

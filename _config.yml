@@ -2,4 +2,5 @@
 highlighter: pygments
 url: http://jaan.janesmae.com/
 lsi: false
+branch: master
 exclude: [CNAME, README.md, LICENSE.md, .gitignore, Gemfile, Gemfile.lock]
