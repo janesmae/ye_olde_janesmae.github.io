@@ -1,6 +1,16 @@
 # General Jekyll Config
 highlighter: pygments
-url: http://jaan.janesmae.com/
+github: https://github.com/janesmae/janesmae.github.io
+
+url: http://jaan.janesmae.com
+permalink: /posts/:year/:month/:title.html
+relative_permalinks: false
+
 lsi: false
 branch: master
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
 exclude: [CNAME, README.md, LICENSE.md, .gitignore, Gemfile, Gemfile.lock]

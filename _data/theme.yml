@@ -16,5 +16,3 @@ tagline: "This is probably not the Jaan you are looking for. Move along!"
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-36904074-1
 
-# Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
