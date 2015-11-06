@@ -2,17 +2,3 @@
 
 # Color for top bar, links, etc
 highlight_color: '#39BD7B'
-
-# Profile links on the left sidebar, leave blank to ignore
-social:
-  github: janesmae
-
-# "Hi, I'm _______"
-fname: Jaan
-name: Jaan Janesmae
-email: jaan@janesmae.com
-tagline: "This is probably not the Jaan you are looking for. Move along!"
-
-# Google Analytics key, leave blank to ignore
-google_analytics_key: UA-36904074-1
-

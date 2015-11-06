@@ -13,3 +13,11 @@ layout: default
     {{ content }}
 </div>
 
+{% if page.footer %}
+    {% include content_improve.html %}
+    {% include content_tags.html %}
+{% endif %}
+
+{% if page.github %}
+    {% include content_github.html %}
+{% endif %}

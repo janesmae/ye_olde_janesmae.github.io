@@ -3,7 +3,7 @@ author: Jaan Janesmae
 title: Fine Print
 layout: page
 permalink: /fineprint/
-robots: noindex
+footer: false
 ---
 This is a personal website of Jaan Janesmae. The views expressed on this site are my personal views and don't necessarily represent my employer’s positions, strategies or opinions.
 
