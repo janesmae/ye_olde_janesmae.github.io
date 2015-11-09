@@ -1,8 +1,12 @@
 ---
-author: Jaan Janesmae
-title: Fine Print
+title: 
+    Fine Print
+date: 2015-11-09
+authors: 
+- Jaan Janesmae
+permalink: 
+    /fineprint/
 layout: page
-permalink: /fineprint/
 footer: false
 ---
 This is a personal website of Jaan Janesmae. The views expressed on this site are my personal views and don't necessarily represent my employer’s positions, strategies or opinions.
