@@ -1,0 +1,9 @@
+@media print {
+
+  .sidebar, .footer, #social, #improve, #tagged, #related, .prev_next {
+    display: none;
+  }
+
+
+
+}
