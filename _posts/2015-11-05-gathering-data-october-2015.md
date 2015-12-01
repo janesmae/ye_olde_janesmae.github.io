@@ -13,9 +13,9 @@ layout: post
 ---
 In 2012 [Stephen Wolfram][stephenwolfram]{:target="_blank"} wrote a blog post about analyzing his life. I stumbled on his post around 2013 and have been thinking about daily activity monitoring and logging since then. To be honest, this is not the first time I’m trying this but it is the first time I seem to be succeeding. 
 
-I do know that many people are tracking themselves. This has been made really easy with a variety of devices and mobile phone apps. Also gamification is heavily used in the most popular apps making activity monitoring a competitive challenge between friends as an example. 
+I do know that many people are tracking themselves. This has been made really easy with a variety of devices and mobile phone apps. Also gamification is heavily used in the most popular apps making activity monitoring a competitive challenge between friends as an example.
 
-[Endomondo][endomondo]{:target="_blank"} is one such app and is heavily used by friends and colleagues of mine. Competing against friends in monthly walking or running challenges is kind of fun and at times may give me the extra push on actually move my ass and go for a run. 
+[Endomondo][endomondo]{:target="_blank"} is one such app and is heavily used by friends and colleagues of mine. Competing against friends in monthly walking or running challenges is kind of fun and at times may give me the extra push on actually move my ass and go for a run.
 
 ### Actually getting meaningful data
 
@@ -25,7 +25,7 @@ One very useful feature of the Loop is the Activity Goal. It is like this small 
 
 ### Gathered Data
 
-So here are some statistics. In october 2015: 6 days 11 hours active time tracked of which 8 hours and 54 minutes is high intensity activities like running. Speaking of running, there are 11 sessions recorded, 65.2 kilometers tracked with a total time of 8 hours and 15 mintues. This also includes a 10K run in the beginning of the month. The daily goal completion average is 110%.
+So here are some statistics. In October 2015: 6 days 11 hours active time tracked of which 8 hours and 54 minutes is high intensity activities like running. Speaking of running, there are 11 sessions recorded, 65.2 kilometers tracked with a total time of 8 hours and 15 minutes. This also includes a 10K run in the beginning of the month. The daily goal completion average is 110%.
 
 ### What's next?
 

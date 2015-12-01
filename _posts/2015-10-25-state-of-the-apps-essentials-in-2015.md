@@ -31,11 +31,11 @@ At my previous job I got asked about what applications I frequently use. While s
 
 * [1Password][1password]{:target="_blank"} - Since I started using 1Password, I honestly have to remember 3 passwords. I have worked as a information security specialist and know too well of the dangers related to re-using passwords. These days I get frustrated when a service or website does not allow >24 characters in passwords or limits me to use numbers and letters only. Maybe I'm too paranoid about this.
 
-* [OmniFocus][omnifocus]{:target="_blank"} - It works, trust me. I have started to manage almost all aspects of my life in OmniFocus and for the unseeable future, I will not look back. A really nice feature is that you can have templates for your reoccurring tasks. 
+* [OmniFocus][omnifocus]{:target="_blank"} - It works, trust me. I have started to manage almost all aspects of my life in OmniFocus and for the unseeable future, I will not look back. A really nice feature is that you can have templates for your reoccurring tasks.
 
 ### Reading
 
-* [Airmail][airmail]{:target="_blank"} - Reading email has never been easier. I love the concept of inbox Zero and have implemented this to my whole daily routine. Airmail helps with this a lot. It is fast and easy to use. PS! It supports my strict whitelist criterias with [SpamSieve][spamsieve]{:target="_blank"}.
+* [Airmail][airmail]{:target="_blank"} - Reading email has never been easier. I love the concept of inbox Zero and have implemented this to my whole daily routine. Airmail helps with this a lot. It is fast and easy to use. PS! It supports my strict whitelist criteria with [SpamSieve][spamsieve]{:target="_blank"}.
 
 * [Reeder 3 for Mac][reeder]{:target="_blank"} - I have more than enough info feeds that I read on a daily basis. Reeder is this one magical app that allows me to digest more information without the additional advertising and blinking images. These days I can not live without it.
 
@@ -49,9 +49,9 @@ At my previous job I got asked about what applications I frequently use. While s
 
 ### Communication
 
-* [Textual][textual]{:target="_blank"} - Probably the best IRC client. At least it is one of the more stable ones around. I know, IRC in 2015 is lame but I'm still a bit oldschool and can not really give up that addiction.
+* [Textual][textual]{:target="_blank"} - Probably the best IRC client. At least it is one of the more stable ones around. I know, IRC in 2015 is lame but I'm still a bit old-school and can not really give up that addiction.
 
-* [Slack][slack]{:target="_blank"} - Team communication has never been easier. For me it is the best team IM solution currently available, providing public chats with a topic and private group converstations as well. There are many competitors out there, every single one has it's good and bad sides. I have been using [Fleep][fleep]{:target="_blank"} for almost a year until recently, but it has a different end goal(merge email with IM) and therefore these 2 apps can really not be compared.
+* [Slack][slack]{:target="_blank"} - Team communication has never been easier. For me it is the best team IM solution currently available, providing public chats with a topic and private group conversations as well. There are many competitors out there, every single one has it's good and bad sides. I have been using [Fleep][fleep]{:target="_blank"} for almost a year until recently, but it has a different end goal(merge email with IM) and therefore these 2 apps can really not be compared.
 
 ### Office Suite
 
