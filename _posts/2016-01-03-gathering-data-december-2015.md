@@ -17,7 +17,7 @@ The third month of my activity tracking. I've done good. I only tracked daily ac
 
 In December 2015: 5 days 22 hours active time tracked. I actually found some problems with the current way I do activity tracking and therefore I need to change some things regarding this.
 
-The daily goal completion average was 128%. This is mainly because I have completed on average 130% or more every day. There were also some days where activity level was under 40%. My [Endomondo][endomondo]{:target="_blank"} stats are good: I tracked 348.52km while walking. Once again, I just keep forgetting to track some of my walks so these stats do not really matter.
+The daily goal completion average was 105%. This is mainly because I have completed 130% or more every day until the 22nd and stopped counting completely on the 25th. There were also some days where activity level was under 40%. My [Endomondo][endomondo]{:target="_blank"} stats are good: I tracked 348.52km while walking. Once again, I just keep forgetting to track some of my walks so these stats do not really matter.
 
 ### What's next?
 
