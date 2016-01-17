@@ -119,6 +119,29 @@
       font-size: 14px;
   }
 
+#pages {
+    border-bottom: 1px dotted #ddd;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+#pages ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+#pages ul li {
+    display: inline-block;
+}
+
+#pages ul li:not(:first-child):before {
+    content: "| ";
+}
+
+#pages a {
+    font-size: 15px;
+}
+
   #social {
       margin-bottom: 10px;
       font-size: 13px;
