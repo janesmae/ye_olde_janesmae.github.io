@@ -9,7 +9,6 @@ permalink:
 layout: page
 footer: false
 ---
-
 My ever growing list of awesome adventures!
 
 ### Bucketlist
@@ -19,6 +18,7 @@ My ever growing list of awesome adventures!
 1. Ride a camel in the Sahara desert
 1. Run a half marathon
 1. Run a full marathon
+1. Run an ultramarathon
 1. Run 10K under an hour
 1. Visit Googleplex
 1. Watch a rocket launch live at Cape Canaveral
@@ -29,8 +29,21 @@ My ever growing list of awesome adventures!
 1. Learn sign language
 1. Attend the Olympics
 1. Bury a Time Capsule
-1. Make one thousand paper cranes 
+1. Make one thousand paper cranes
 1. Drive all of the Pan-American Highway
 1. Compete in a triathlon
 1. Learn Mandarin
+1. Learn wakeboarding
+1. Visit South Africa
+1. Experience zero gravity
+1. Gamble 10 dollars in Las Vegas
+1. Drive a tank
+1. Build and sleep in an igloo
+1. Stand on the Equator
+1. Visit a live volcano
+1. Shower under a waterfall
+1. Meet my favorite actress
+1. Pet a tiger
+1. Set a Guinness world record
+1. Learn to juggle
 1. ...

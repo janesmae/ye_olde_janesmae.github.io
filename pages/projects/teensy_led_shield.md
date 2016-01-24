@@ -1,13 +1,13 @@
 ---
-title: 
+title:
     Teensy LED Shield
 date: 2015-11-09
-authors: 
+authors:
 - Jaan Janesmae
 tags:
 - Teensy
 - schematics
-permalink: 
+permalink:
     /projects/teensy_led_shield/
 layout: page
 footer: true

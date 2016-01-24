@@ -9,7 +9,6 @@ permalink:
 layout: page
 footer: false
 ---
-
 ### Current Projects
 
 - [RSVP](rsvp)
