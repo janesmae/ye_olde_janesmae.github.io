@@ -38,12 +38,15 @@ My ever growing list of awesome adventures!
 1. Experience zero gravity
 1. Gamble 10 dollars in Las Vegas
 1. Drive a tank
-1. Build and sleep in an igloo
+1. Build an igloo and sleep in it
 1. Stand on the Equator
 1. Visit a live volcano
 1. Shower under a waterfall
 1. Meet my favorite actress
 1. Pet a tiger
 1. Set a Guinness world record
-1. Learn to juggle
+1. Learn to juggle at least 5 items
+1. Get something patented
+1. Mush a dog sled
+1. Pan for gold
 1. ...
