@@ -15,12 +15,10 @@
     {% endif %}
 {% endfor %}
 <ul class="posts prev_next">
-    {% if next_post_url %}
-        <li><span>Next Post &raquo;</span> <a href="{{ next_post_url }}">{{ next_post_title }}</a></li>
-    {% endif %}
     {% if prev_post_url %}
         <li><span>Previous Post &laquo;</span> <a href="{{ prev_post_url }}">{{ prev_post_title }}</a></li>
     {% endif %}
+    {% if next_post_url %}
+        <li><span>Next Post &raquo;</span> <a href="{{ next_post_url }}">{{ next_post_title }}</a></li>
+    {% endif %}
 </ul>
-
-

@@ -3,6 +3,9 @@ layout: default
 ---
 <p class="meta">
     Posted: {{ page.date | date: "%B %d, %Y" }}
+    <br>
+    {% assign words = content | number_of_words | plus:90 | divided_by:180 %}
+    {{ words }} minute read
 </p>
 
 <h1 class="title">{{ page.title }}</h1>
