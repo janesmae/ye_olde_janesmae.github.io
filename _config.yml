@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: pygments
+highlighter: rouge
 
 author: Jaan Janesmae
 tagline: "This is probably not the Jaan you are looking for. Move along!"
