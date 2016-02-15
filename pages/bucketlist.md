@@ -1,7 +1,7 @@
 ---
 title:
     Bucketlist
-date: 2016-01-18
+date: 2016-02-15
 authors:
 - Jaan Janesmae
 permalink:
@@ -49,4 +49,6 @@ My ever growing list of awesome adventures!
 1. Get something patented
 1. Mush a dog sled
 1. Pan for gold
+1. Feed a Kangaroo
+1. Climb the Seven Summits
 1. ...
