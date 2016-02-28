@@ -1,7 +1,7 @@
 ---
 title:
     Bucketlist
-date: 2016-02-15
+date: 2016-02-28
 authors:
 - Jaan Janesmae
 permalink:
@@ -51,4 +51,7 @@ My ever growing list of awesome adventures!
 1. Pan for gold
 1. Feed a Kangaroo
 1. Climb the Seven Summits
+1. Hug a penguin
+1. Visit the Waitomo Glowworm Caves in New Zealand
+1. Feed a giraffe
 1. ...
