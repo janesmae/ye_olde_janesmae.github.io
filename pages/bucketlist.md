@@ -1,7 +1,7 @@
 ---
 title:
     Bucketlist
-date: 2016-02-28
+date: 2016-04-27
 authors:
 - Jaan Janesmae
 permalink:
@@ -54,4 +54,6 @@ My ever growing list of awesome adventures!
 1. Hug a penguin
 1. Catch glow worms in New Zealand
 1. Feed a giraffe
+1. Take a glassblowing workshop and make my own drinking glass
+1. Attend the Vienna Opera Ball
 1. ...
