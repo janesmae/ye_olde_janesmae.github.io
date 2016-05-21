@@ -23,15 +23,15 @@ authors:
 - Jaan Janesmae
 layout: post
 ---
-At my previous job I got asked about what applications I frequently use. While setting up a new computer I spent a lot of time evaluating previously used apps and consider only what works best for me. Here are some essential apps that I use on a daily basis.
+At my previous job, I got asked about what applications I frequently use. While setting up a new computer I spent a lot of time evaluating previously used apps and consider only what works best for me. Here are some essential apps that I use on a daily basis.
 
 ### Productivity
 
 * [Alfred][alfred]{:target="_blank"} - I presume many people do not like spotlight search and Alfred seems to do a much better job. With the powerpack included, I have optimized parts of my workflow. It also integrates very well with other apps like 1Password, terminal.app and iTunes.
 
-* [1Password][1password]{:target="_blank"} - Since I started using 1Password, I honestly have to remember 3 passwords. I have worked as a information security specialist and know too well of the dangers related to re-using passwords. These days I get frustrated when a service or website does not allow >24 characters in passwords or limits me to use numbers and letters only. Maybe I'm too paranoid about this.
+* [1Password][1password]{:target="_blank"} - Since I started using 1Password, I honestly have to remember 3 passwords. I have worked as an information security specialist and know too well of the dangers related to re-using passwords. These days I get frustrated when a service or website does not allow >24 characters in passwords or limits me to use numbers and letters only. Maybe I'm too paranoid about this.
 
-* [OmniFocus][omnifocus]{:target="_blank"} - It works, trust me. I have started to manage almost all aspects of my life in OmniFocus and for the unseeable future, I will not look back. A really nice feature is that you can have templates for your reoccurring tasks.
+* [OmniFocus][omnifocus]{:target="_blank"} - It works, trust me! I have started to manage almost all aspects of my life in OmniFocus and for the unseeable future, I will not look back. A really nice feature is that you can have templates for your reoccurring tasks.
 
 ### Reading
 
@@ -41,7 +41,7 @@ At my previous job I got asked about what applications I frequently use. While s
 
 ### Writing
 
-* [DayOne][dayone]{:target="_blank"} - Yes, I keep a private journal. Unfortunately I'm as bad writing in it as I'm keeping a blog. So these days I keep making short notes and writing down emotions, usually before going to sleep. DayOne is definitely the best app for this.
+* [DayOne][dayone]{:target="_blank"} - Yes, I keep a private journal. Unfortunately, I'm as bad writing in it as I'm keeping a blog. So these days I keep making short notes and writing down emotions, usually before going to sleep. DayOne is definitely the best app for this.
 
 ### Code and snippets
 
@@ -49,13 +49,13 @@ At my previous job I got asked about what applications I frequently use. While s
 
 ### Communication
 
-* [Textual][textual]{:target="_blank"} - Probably the best IRC client. At least it is one of the more stable ones around. I know, IRC in 2015 is lame but I'm still a bit old-school and can not really give up that addiction.
+* [Textual][textual]{:target="_blank"} - Probably the best IRC client. At least it is one of the most stable ones around. I know, IRC in 2015 is lame but I'm still a bit old-school and can not really give up that addiction.
 
 * [Slack][slack]{:target="_blank"} - Team communication has never been easier. For me it is the best team IM solution currently available, providing public chats with a topic and private group conversations as well. There are many competitors out there, every single one has it's good and bad sides. I have been using [Fleep][fleep]{:target="_blank"} for almost a year until recently, but it has a different end goal(merge email with IM) and therefore these 2 apps can really not be compared.
 
 ### Office Suite
 
-* [Office365][office]{:target="_blank"} - Unfortunately this is still a must in this day and age. But hey, it is software on lease. It provides some fantastic online features complimenting the offline software. I would gladly swap over to Apple's iWork(Pages, Numbers, Keynote) suite but it keeps messing up the excel tables of others. It is like an industry standard, almost everyone uses it.
+* [Office365][office]{:target="_blank"} - Unfortunately this is still a must in this day and age. But hey, it is software on lease. It provides some fantastic online features complimenting the offline software. I would gladly swap over to Apple's iWork(Pages, Numbers, Keynote) suite but it keeps messing up the excel tables of others. It is an industry standard, almost everyone uses it.
 
 ### Miscellaneous
 

@@ -11,7 +11,7 @@ authors:
 - Jaan Janesmae
 layout: post
 ---
-After my 2 weeks break from counting calories and tracking my walks, I'm back to the old me and started both activities once again. I needed that break for many reasons. I firmly believe in taking holidays not only from work, but also from hobbies and extra curricular activities. I spent an embarrassingly large chunk of the week watching shows on Netflix instead of actually doing anything useful. Sh*t happens ...
+After my 2 weeks break from counting calories and tracking my walks, I'm back to the old me and started both activities once again. I needed that break for many reasons. I firmly believe in taking holidays not only from work but also from hobbies and extracurricular activities. I spent an embarrassingly large chunk of the week watching shows on Netflix instead of actually doing anything useful. Sh*t happens ...
 
 ### Roundup
 

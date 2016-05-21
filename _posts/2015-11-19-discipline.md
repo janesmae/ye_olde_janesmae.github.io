@@ -10,7 +10,7 @@ authors:
 - Jaan Janesmae
 layout: post
 ---
-Well, I can honestly claim that I lack self control and probably waste too much time on social networks and hobby projects. Then again, like all of us, I have more creative and less creative periods in my life. At times I get frustrated with the amount of time I spend on social networks or other non-trivial things in life. I actually did the whole "get off Facebook" thing a over a year ago and it was a brilliant experience. The dark side to this little experiment was the lack of communication with friends and therefore I'm now facing other issues resulting from this experiment.
+Well, I can honestly claim that I lack self-control and probably waste too much time on social networks and hobby projects. Then again, like all of us, I have more creative and less creative periods in my life. At times, I get frustrated with the amount of time I spend on social networks or other non-trivial things in life. I actually did the whole "get off Facebook" thing over a year ago and it was a brilliant experience. The dark side to this little experiment was the lack of communication with friends and therefore I'm now facing other issues resulting from this experiment.
 
 I do not know exactly what is bothering me during this phase of life. I know I'm not happy and I need to figure out on how to get back to the old, extremely productive me. I have this weird sense of being overwhelmed. I have constantly decreased my workload for some time now. And still I can't feel having accomplished something. Just weird.
 

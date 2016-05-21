@@ -11,7 +11,7 @@ authors:
 - Jaan Janesmae
 layout: post
 ---
-The third month of my activity tracking. I've done good. I only tracked daily activity until the 25th for several reasons, therefore this stats are not complete.
+The third month of my activity tracking. I've done well. I only tracked daily activity until the 25th for several reasons, therefore, this stats are not complete.
 
 ### Gathered Data
 
