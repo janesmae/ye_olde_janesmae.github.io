@@ -17,7 +17,7 @@ I used to have e-mail signatures set up in all my e-mail clients and systems. Th
 
 I am usually signing e-mails with "Regards, [Initial/First name]" and this should be okay in most cases. I noticed a typo in an e-mail sent by someone recently to a group I am a part of and this issue has been on my mind since then. A simple typographical error in a signature - replace the letter "g" with "t" in my preferred signature and it gets a negative undertone.
 
-I am an Estonian schooled in British English. I still remember some of the etiquettes about "Dear Mr. ..." and the "Yours sincerely" I learned in my secondary English lessons. I feel the importance of speaking and writing good English in an international working environment.  But formal  communication is another topic.
+I am an Estonian schooled in British English. I still remember some of the etiquettes about "Dear Mr. ..." and the "Yours sincerely" I learned in my secondary English lessons. I feel the importance of speaking and writing good English in an international working environment.  But formal  communication is another topic for another day.
 
 I have a selection of good-byes for short replies: love, hugs, cheers - depending on the person and context. I don't like to use "Thanks" a lot, thanking someone for no reason just does not seem to make sense. I have not decided on using just "Best" yet. I feel like it should be a no-go - it doesn't sound genuine. Best what? Cucumbers? Maybe signing with just my name or an initial is the solution? Unless I'm making a specific request or am truly thankful for something.
 
