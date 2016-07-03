@@ -13,6 +13,7 @@ For some strange reason, I really enjoy running.
 
 ### Events and results
 
+- 2016-07-02 - 35.jooks ümber Pühajärve - Running, 10.7km - TBD
 - 2016-06-11 - Narva Energiajooks - Running, 7km - 00:52:55
 - 2015-10-03 - 4. Tartu Linnamaraton - Running, 10km - 1:16:08
 - 2015-09-27 - Pirita Sügisjooks - Running, 6km - 00:41:51

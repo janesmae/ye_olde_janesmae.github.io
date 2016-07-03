@@ -33,7 +33,7 @@ My ever growing list of awesome adventures!
 1. Drive all of the Pan-American Highway
 1. Compete in a triathlon
 1. Learn Mandarin
-1. Learn wakeboarding
+1. <del>Learn wakeboarding</del> - ✓ - 2016-06-27
 1. Visit South Africa
 1. Experience zero gravity
 1. Gamble 10 dollars in Las Vegas
@@ -56,4 +56,6 @@ My ever growing list of awesome adventures!
 1. Feed a giraffe
 1. Take a glassblowing workshop and make my own drinking glass
 1. Attend the Vienna Opera Ball
+1. Chase a Tornado
+1. Perform a Magic Trick
 1. ...
