@@ -58,4 +58,6 @@ My ever growing list of awesome adventures!
 1. Attend the Vienna Opera Ball
 1. Chase a Tornado
 1. Perform a Magic Trick
+1. Complete the Army PFT with a minimum score of 180
+1. Find a Pearl in an Oyster
 1. ...
