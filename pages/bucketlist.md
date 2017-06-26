@@ -1,7 +1,7 @@
 ---
 title:
     Bucketlist
-date: 2016-04-27
+date: 2017-06-26
 authors:
 - Jaan Janesmae
 permalink:
